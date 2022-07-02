@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+.card{
+    margin-right: 5vw;
+
+}
+
+.tituloHome{
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.descripcion{
+    font-weight: 300;
+    font-size: 1rem;
+    color: black;
+    
+}
+
+.linkHome{
+
+    text-decoration: none;
+   
+   }
+
+     
+   #botonHome{
+    background-color: #FF6699;
+    color: white;
+    font-size: medium;
+    border-radius: 0;
+    width: 200px;
+}

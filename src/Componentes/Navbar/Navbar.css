@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2? family= Ubuntu:wght@300;400 & display=swap');
+
+
+.divNavbar{
+    background-size: 100vw;
+    background-color: black;
+
+   
+
+
+}
+
+
+#desplegable1, #desplegable2, #desplegable3, #desplegable4, #desplegable5{
+    color: black;
+    text-decoration: none;
+}
+
+#basic-button{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: none;
+    font-size: larger;
+    margin: 0 4rem;
+
+  
+}
+
+.logoNavbar{
+    width: 100px;
+    margin: 0.5rem;
+}
+
+.carritoNavbar{
+    width: 30px;
+    margin: 0 3rem;
+}
+
+
+#liNavbar{
+    color: white;
+    text-decoration: none;
+}
+
+.widget{
+    color: black;
+    position: relative;
+    left: 50px;
+    background-color: white;
+    width: 20px;
+    text-align: center;
+}
+
+.listaNavbar{
+    margin-top: 1rem;
+    }
+
+      
+    .liNavbar{
+        margin: 0 4rem;
+        list-style: none;
+        font-size: larger;
+        color: white;
+        text-decoration: none;
+    }
+ 

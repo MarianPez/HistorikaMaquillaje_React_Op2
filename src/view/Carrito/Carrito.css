@@ -1,0 +1,71 @@
+.tituloDetailCarrito{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.opcion2Carrito{
+    font-size: 3rem;
+    padding-top: 25vh;
+    height: 65vh;
+    text-align: center;
+}
+
+
+.imagenDetail{
+    width: 20rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.divExtra{
+    height: 60vh;
+}
+
+.divTextoCarrito{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-right: 14rem;
+    justify-content: center;
+    width: 30vw;
+
+    
+
+    
+}
+
+.nombreDetail{
+        font-size: xx-large;
+    }
+
+    .descripcionDetail{
+        font-size: x-large;
+        font-weight: 500;
+
+   
+   }
+
+   .unidadesDetail{
+    font-size: 2rem;
+        font-weight: 600;
+}
+    .precioDetail{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+
+    
+.linkCarrito{
+
+    text-decoration: none;
+   }
+   
+   #botonCarrito{
+       background-color: #FF6699;
+       color: white;
+       font-size: medium;
+       border-radius: 0;
+       width: 200px;
+   }

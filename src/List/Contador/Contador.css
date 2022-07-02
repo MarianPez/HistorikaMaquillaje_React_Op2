@@ -1,0 +1,24 @@
+.botonesContador{
+    font-size: x-large;
+    width: 50px;
+}
+
+.pContador{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.linkCarrito{
+
+    text-decoration: none;
+
+}
+
+#boton{
+    color: white;
+    background-color: #FF6699;
+    font-size: medium;
+    border-radius: 0;
+    width: 200px;
+    text-decoration: none;
+}

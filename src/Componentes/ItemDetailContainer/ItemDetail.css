@@ -1,0 +1,37 @@
+.imagenDetail{
+
+    
+}
+
+.detailImagen{
+    width: 40rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+
+}
+.divTexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-right: 14rem;
+    width: 30vw;
+
+
+}
+
+.nombreDetail{
+    font-weight: 700;
+    font-size: 2.3vw
+  }
+
+  .descripcionDetail{
+    font-size: x-large;
+    font-weight: 500;
+}   
+   
+
+.precioDetail{
+    font-size: 2rem;
+    font-weight: 600;
+}
